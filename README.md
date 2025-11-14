@@ -6,7 +6,7 @@
 **GitHub:** [Link](https://github.com/craigouma/)
 **LinkedIn:** [Link](https://linkedin.com/in/craig-carlos-ouma/)
 
-![Blue Ventures Fisheries Intelligence Platform](images/dashboard_demo.png)
+![Blue Ventures Fisheries Intelligence Platform](images/demo.jpg)
 
 *Interactive dashboard showcasing real-time MPA monitoring, conservation intelligence, and policy scenario analysis*
 
