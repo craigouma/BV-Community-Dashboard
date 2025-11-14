@@ -1,0 +1,16 @@
+cd
+cd..
+shiny::runApp()
+cd.. /Users/craigouma/Documents/BlueVentures/BV-Community-Dashboard/data
+/Users/craigouma/Documents/BlueVentures/BV-Community-Dashboard/data
+setwd("/Users/craigouma/Documents/BlueVentures/BV-Community-Dashboard/data")
+shiny::runApp()
+setwd("/Users/craigouma/Documents/BlueVentures/BV-Community-Dashboard/")
+shiny::runApp()
+shiny::runApp()
+exit
+exit#
+quit
+shiny::runApp()
+shiny::runApp()
+renv::run(shiny::runApp())

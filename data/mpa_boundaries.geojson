@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "mpa_boundaries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "mpa_name": "Hadley Reef Sanctuary", "established_date": "2020-01-01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.0, 15.0 ], [ -70.0, 15.5 ], [ -69.5, 15.5 ], [ -69.5, 15.0 ], [ -70.0, 15.0 ] ] ] } },
+{ "type": "Feature", "properties": { "mpa_name": "Viz Cays Reserve", "established_date": "2021-06-01" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -70.5, 14.5 ], [ -70.5, 15.0 ], [ -70.2, 15.0 ], [ -70.2, 14.5 ], [ -70.5, 14.5 ] ] ] } }
+]
+}

@@ -1,0 +1,14 @@
+# Files to ignore during deployment
+.Rprofile.bak
+.Rhistory
+.RData
+*.Rproj
+.vscode/
+.idea/
+.DS_Store
+*.log
+renv/.gitignore
+renv/staging/
+renv/library/
+renv.lock
+node_modules/

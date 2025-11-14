@@ -1,0 +1,12 @@
+name: BV-Community-Dashboard
+title: Blue Ventures Fisheries Intelligence Platform
+username: craigouma
+account: craigouma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16064510
+bundleId: 11179633
+url: https://craigouma.shinyapps.io/BV-Community-Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

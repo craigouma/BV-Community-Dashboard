@@ -1,0 +1,10 @@
+name: BV-Fisheries-Platform
+title: Blue Ventures Fisheries Intelligence Platform
+username: craigouma
+account: craigouma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16069028
+bundleId: 11179626
+url: https://craigouma.shinyapps.io/BV-Fisheries-Platform/
+version: 1

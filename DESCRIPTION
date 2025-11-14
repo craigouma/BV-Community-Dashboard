@@ -1,0 +1,30 @@
+Package: BVCommunityDashboard
+Title: Community Fisheries Data Platform (Blue Ventures Demo)
+Version: 1.0.0
+Author: Craig Carlos Ouma <craigouma@aibbc.org>
+Maintainer: Craig Carlos Ouma <craigouma@aibbc.org>
+Description: A demonstration R Shiny dashboard built for the Blue Ventures Software Developer (R Shiny) application. This app visualizes community-reported fisheries data against Marine Protected Areas (MPAs) to provide actionable insights for local management [19, 20], showcasing production-grade Shiny architecture.[9, 12]
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Depends: R (>= 4.1.0)
+Imports:
+    shiny (>= 1.7.0),
+    shinydashboard,
+    shinyWidgets,
+    leaflet,
+    plotly,
+    reactable,
+    DT,
+    sf,
+    dplyr,
+    arrow,
+    magrittr,
+    lubridate
+Suggests:
+    dbplyr,
+    bigrquery,
+    testthat (>= 3.0.0),
+    renv
+Remotes: 
+
