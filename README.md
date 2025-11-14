@@ -173,8 +173,8 @@ This dashboard has been transformed into a **single, comprehensive intelligence 
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/craigouma/BV_Community_Dashboard.git
-cd BV_Community_Dashboard
+git clone https://github.com/craigouma/BV-Community-Dashboard.git
+cd BV-Community-Dashboard
 ```
 
 ### Generate Data (One-Time Step):
