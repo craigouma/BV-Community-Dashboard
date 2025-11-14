@@ -1,0 +1,31 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rproj
+.Rproj.user
+*.Rproj
+
+# Shiny deployment
+rsconnect/
+.Rapp.history
+
+# Development environment
+.vscode/
+.idea/
+
+# Demo images (uncomment if you want to include them)
+# images/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# renv files (managed by renv)
+renv/.gitignore
+renv/library/
+renv/staging/

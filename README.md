@@ -2,9 +2,13 @@
 
 **A Senior-Level R/Shiny Demonstration for Marine Conservation**
 
-**Author:** Craig Carlos Ouma  
-**GitHub:** [Link](https://github.com/craigouma/)  
+**Author:** Craig Carlos Ouma
+**GitHub:** [Link](https://github.com/craigouma/)
 **LinkedIn:** [Link](https://linkedin.com/in/craig-carlos-ouma/)
+
+![Blue Ventures Fisheries Intelligence Platform](images/dashboard_demo.png)
+
+*Interactive dashboard showcasing real-time MPA monitoring, conservation intelligence, and policy scenario analysis*
 
 ## 1. Introduction: The "Why" of This Project
 
@@ -168,7 +172,17 @@ This dashboard has been transformed into a **single, comprehensive intelligence 
 - Ensure all data files are included in the bundle
 - Check that renv dependencies are properly captured
 
-## 7. Setup and Installation
+## 7. Demo Image
+
+To add a professional screenshot to your README:
+
+1. **Take a screenshot** of your deployed dashboard showing all key sections
+2. **Save it as** `images/dashboard_demo.png` (recommended size: 1200x800px)
+3. **Uncomment** the images line in `.gitignore` if you want to include it in your repository
+
+The README is already configured to display your dashboard screenshot prominently after the title.
+
+## 8. Setup and Installation
 
 ### Clone the Repository:
 
